@@ -1,0 +1,27 @@
+{
+  "name": "grocerylist-backend",
+  "description": "Grocery List",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shellenorteney/grocerylist-backend"
+  },
+  "keywords": [
+    "grocery;",
+    "list;"
+  ],
+  "author": "adlermo,sheron,shellen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shellenorteney/grocerylist-backend/issues"
+  },
+  "homepage": "https://github.com/shellenorteney/grocerylist-backend#readme",
+  "dependencies": {
+    "fastify": "^5.2.1"
+  }
+}
